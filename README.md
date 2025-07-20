@@ -1,6 +1,7 @@
 🎶 Music Library App (Prototype)
 
 A cross-platform mobile prototype Music Library App for iOS and Android that allows users to search, explore, save, and share their favorite music albums. This app was developed to demonstrate the integration of external music APIs, local data storage, and social media sharing within a clean and user-friendly mobile interface.
+
 ✅ Project Summary
 
     📱 Platform: iOS & Android
