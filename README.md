@@ -6,7 +6,7 @@ A cross-platform mobile prototype Music Library App for iOS and Android that all
 
     📱 Platform: iOS & Android
 
-    🛠️ Framework: Flutter (or React Native if applicable)
+    🛠️ Framework: React Native 
 
     🌐 Web Service: Last.fm API
 
@@ -45,7 +45,7 @@ A cross-platform mobile prototype Music Library App for iOS and Android that all
 
     Data Storage
 
-        Local database (e.g., SQLite, Hive, or Shared Preferences) used to persist user-selected albums.
+        Local database used to persist user-selected albums.
 
     Social Media Integration
 
@@ -71,11 +71,4 @@ The Music Library App prototype meets its core objectives:
 
     Functional and reliable multi-platform experience
 
-    This project demonstrates strong skills in API integration, mobile UI development, and cross-platform functionality, and lays a solid foundation for future enhancements such as user authentication and cloud sync.
-
-📸 Screenshots
-
-Add screenshots here if available to showcase UI and features.
-📜 License
-
-This project is for educational and prototyping purposes. No commercial use of the Last.fm API data is permitted. Licensing terms apply as per Last.fm API terms of service.
+This project demonstrates strong skills in API integration, mobile UI development, and cross-platform functionality, and lays a solid foundation for future enhancements such as user authentication and cloud sync.
